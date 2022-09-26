@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "id": 7,
+      "firstName": "Ryan",
+      "lastName": "Woods",
+      "email": "Ryan555@gmail.com",
+      "mobile": "9012365498",
+      "salary": "42000"
+    },
+    {
+      "id": 23,
+      "firstName": "Diya",
+      "lastName": "Sriram",
+      "email": "Diya2000@gmail.com",
+      "mobile": "9121314151",
+      "salary": "36000"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
